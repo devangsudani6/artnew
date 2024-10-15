@@ -1,0 +1,10 @@
+.img{
+    background-image: url(images/download.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-position: center;
+}
+.font{
+    color: aliceblue;
+}
